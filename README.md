@@ -1,6 +1,6 @@
 <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 ！</h2>
 　
-🤝 I am　a　Web front-end development engineer．
+🤝 I am a Web front-end development engineer. 
 
 - 💬 How to reach me:
   - WeChat: `WongLeerAres`
