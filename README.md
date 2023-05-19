@@ -2,7 +2,7 @@
 　
 🤝 I am a Web front-end development engineer. 
 
-- 💬 How to reach me:
+- 💬 How to contact me:
   - WeChat: `WongLeerAres`
   - E-mail:  `wongleer@163.com`
 
