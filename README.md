@@ -6,7 +6,7 @@
   - WeChat: `WongLeerAres`
   - E-mail:  `wongleer@163.com`
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wongLeerr)](https://github.com/anuraghazra/github-readme-stats)![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wongLeerr&layout=compact&hide_border=true&langs_count=10)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wongLeerr)](https://github.com/anuraghazra/github-readme-stats)![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wongLeerr&layout=compact&hide_border=true&langs_count=8)
 
 <h2>　😄　Have a nice day !</h2>
 <br />
